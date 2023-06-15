@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "tiktok-b0a96",
+    "staging": "tiktok-b0a96"
+  },
+  "targets": {},
+  "etags": {}
+}
